@@ -133,5 +133,5 @@ function hidemenu() {
   navLinks.style.right = "-200px";
 }
 function sendmail() {
-  alert("Thanks you- Team GGU");
+  alert("Thanks you- Team DCFT");
 }
